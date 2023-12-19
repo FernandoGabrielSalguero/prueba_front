@@ -1,15 +1,15 @@
 # prueba_front
  
-> _[!NOTE]_
+> [!NOTE]
 > Nota especial
 
-> .[!TIP].
+> !TIP
 > Nota especial
 
-> .[!IMPORTANT].
+> _[!IMPORTANT]_
 > Nota especial
 
-> .[!WARNING].
+> -[!WARNING]-
 > Nota especial
 
 > .[!CAUTION].
