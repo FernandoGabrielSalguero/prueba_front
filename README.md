@@ -1,6 +1,6 @@
 # prueba_front
  
-> .[!NOTE].
+> _[!NOTE]_
 > Nota especial
 
 > .[!TIP].
