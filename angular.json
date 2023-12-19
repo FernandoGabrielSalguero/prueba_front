@@ -30,11 +30,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss",
               "@angular/material/prebuilt-themes/indigo-pink.css",
               "src/assets/fonts/flaticon_tagus.css",
               "node_modules/remixicon/fonts/remixicon.css",
-              "node_modules/ngx-toastr/toastr.css"
+              "node_modules/ngx-toastr/toastr.css",
+              "src/styles.scss"
             ],
             "scripts": []
           },
