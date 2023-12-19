@@ -3,14 +3,14 @@
 > [!NOTE]
 > Nota especial
 
-> !TIP
+> [!TIP]
 > Nota especial
 
-> _[!IMPORTANT]_
+> [!IMPORTANT]
 > Nota especial
 
-> -[!WARNING]-
+> [!WARNING]
 > Nota especial
 
-> .[!CAUTION].
+> [!CAUTION]
 > Nota especial
