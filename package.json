@@ -26,6 +26,7 @@
     "@fullcalendar/daygrid": "^6.1.4",
     "angular-gauge": "^5.0.0",
     "apexcharts": "^3.41.1",
+    "bootstrap": "^5.3.2",
     "chart.js": "^4.3.3",
     "chartjs-plugin-annotation": "^2.1.2",
     "chartjs-plugin-datalabels": "^2.2.0",
